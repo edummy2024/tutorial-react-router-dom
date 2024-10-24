@@ -64,7 +64,7 @@ const routerComponent = createBrowserRouter(
           </Route>
         </Route>
   ), {
-    basename: '/tutorial',
+    // basename: '/tutorial',
   },
   
 );
